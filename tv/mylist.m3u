@@ -1,76 +1,78 @@
 #EXTM3U
-#EXTINF:19 group-title="Deportes",SKY LIGA ALEMANA / TUDN
+#EXTINF:19,SKY LIGA ALEMANA / TUDN
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
-#EXTINF:0 group-title="Deportes",DAZN
+#EXTINF:0,DAZN
 http://matrivagoweb.xyz:8080/mauri000/03031993/67369
-#EXTINF:11 group-title="Deportes",Fox Sports HD
+#EXTINF:11,Fox Sports HD
 http://201.217.246.48:9000/play/a085/index.m3u8
-#EXTINF:59 group-title="Deportes",Spain 
+#EXTINF:59,Spain 
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
-#EXTINF:11 group-title="Deportes",SKY SPORTS GT
+#EXTINF:11,SKY SPORTS GT
 http://45.171.64.30:2000/play/a08m/index.m3u8
-#EXTINF:11 group-title="Deportes",La Liga Espaoola
+#EXTINF:11,La Liga Espa�ola
 http://181.78.98.214:8000/play/a017/index.m3u8
-#EXTINF:11 group-title="Deportes",TIGO SPORT
+#EXTINF:11,TIGO SPORT
 http://45.171.64.30:2000/play/a08e/index.m3u8
-#EXTINF:11 group-title="Deportes",Claro Sports GT
+#EXTINF:11,Claro Sports GT
 http://45.171.64.30:2000/play/a053/index.m3u8
-#EXTINF:11 group-title="Deportes",TyC Sports HD
+#EXTINF:11,TyC Sports HD
 http://201.217.246.48:9000/play/a06x/index.m3u8
-#EXTINF:11 group-title="Deportes",DSPORT
+#EXTINF:11,DSPORT
 http://201.217.246.48:9000/play/a0dm/index.m3u8
-#EXTINF:60 group-title="Deportes",DSPORTS 2
+#EXTINF:60,DSPORTS 2
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9562.m3u8
-#EXTINF:60 group-title="Deportes",DSPORTS +
+#EXTINF:60,DSPORTS +
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9557.m3u8
-#EXTINF:0 group-title="Deportes",ESPN CO
+#EXTINF:0,ESPN CO
 http://181.205.130.194:4000/play/a08n
-#EXTINF:11 group-title="Deportes",ESPN
+#EXTINF:11,ESPN
 http://201.217.246.48:9000/play/a099/index.m3u8
-#EXTINF:11 group-title="Deportes",ESPN 2 HD
+#EXTINF:11,ESPN 2 HD
 http://201.217.246.48:9000/play/a098/index.m3u8
-#EXTINF:11 group-title="Deportes",ESPN 3 HD
+#EXTINF:11,ESPN 3 HD
 http://201.217.246.48:9000/play/a09a/index.m3u8
-#EXTINF:11 group-title="Deportes",ESPN 4HD
+#EXTINF:11,ESPN 4HD
 http://201.217.246.48:9000/play/a084/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 6 HD
+#EXTINF:0,ESPN 6 HD
 http://181.205.130.194:4000/play/a0eh
-#EXTINF:59 group-title="Deportes",ESPN 7 Sur (ESPN 10)
+#EXTINF:59,ESPN 7 Sur (ESPN 10)
 http://38.7.101.90:8000/play/a1zj/index.m3u8
-#EXTINF:11 group-title="Deportes",ESPN Premium HD
+#EXTINF:11,ESPN Premium HD
 http://201.217.246.48:9000/play/a086/index.m3u8
-#EXTINF:11 group-title="Deportes",TUDN
+#EXTINF:11,TUDN
 http://45.171.64.30:2000/play/a08j/index.m3u8
-#EXTINF:11 group-title="Deportes",TV-101
+#EXTINF:11,TV-101
 http://45.171.64.30:2000/play/a08t/index.m3u8
-#EXTINF:11 group-title="Deportes",Cinecanal HD
+#EXTINF:11,Cinecanal HD
 http://201.217.246.48:9000/play/a089/index.m3u8
-#EXTINF:11 group-title="Deportes",Cinemax
+#EXTINF:11,Cinemax
 http://201.217.246.48:9000/play/a08r/index.m3u8
-#EXTINF:11 group-title="Deportes",FX HD
+#EXTINF:11,FX HD
 http://201.217.246.48:9000/play/a070/index.m3u8
-#EXTINF:11 group-title="Deportes",HBO
+#EXTINF:11,HBO
 http://201.217.246.48:9000/play/a07m/index.m3u8
-#EXTINF:11 group-title="Deportes",HBO Family HD
+#EXTINF:11,HBO Family HD
 http://201.217.246.48:9000/play/a07p/index.m3u8
-#EXTINF:11 group-title="Deportes",HBO SIGNATURE
+#EXTINF:11,HBO SIGNATURE
 http://201.217.246.48:9000/play/a06h/index.m3u8
-#EXTINF:11 group-title="Deportes",HBO Plus
+#EXTINF:11,HBO Plus
 http://201.217.246.48:9000/play/a07n/index.m3u8
-#EXTINF:11 group-title="Deportes",HBO XTREME HD
+#EXTINF:11,HBO XTREME HD
 http://201.217.246.48:9000/play/a06g/index.m3u8
-#EXTINF:11 group-title="Deportes",Nick Jr
+#EXTINF:11,Nick Jr
 http://201.217.246.48:9000/play/a07s/index.m3u8
-#EXTINF:11 group-title="Deportes",STAR CHANNEL HD
+#EXTINF:11,STAR CHANNEL HD
 http://201.217.246.48:9000/play/a087/index.m3u8
-#EXTINF:11 group-title="Deportes",Sony
+#EXTINF:11,Sony
 http://201.217.246.48:9000/play/a09c/index.m3u8
-#EXTINF:11 group-title="Deportes",Space HD
+#EXTINF:11,Space HD
 http://201.217.246.48:9000/play/a071/index.m3u8
-#EXTINF:11 group-title="Deportes",TCM
+#EXTINF:11,TCM
 http://201.217.246.48:9000/play/a065/index.m3u8
-#EXTINF:11 group-title="Deportes",Warner Channel HD
+#EXTINF:11,Warner Channel HD
 http://201.217.246.48:9000/play/a09d/index.m3u8
+
+#EXTM3U
 #EXTINF:24 group-title="El Salvador",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 #EXTINF:29 group-title="El Salvador",Canal 10 (720p)
@@ -83,11 +85,11 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:0 group-title="El Salvador",Legislative Assembly of El Salvador (1080p) [Not 24/7]
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:360 group-title="El Salvador",Megavision Canal 19 (720p)
+#EXTINF:360 group-title="El Salvador",Megavisi�n Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:359 group-title="El Salvador",Megavision Canal 21 (720p)
+#EXTINF:359 group-title="El Salvador",Megavisi�n Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:2399 group-title="El Salvador",RTV Canal 57 (720p)
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:2400 group-title="El Salvador",RTV Catolica Canal 40 (1080p)
+#EXTINF:2400 group-title="El Salvador",RTV Cat�lica Canal 40 (1080p)
 https://stream.giostreaming.app/canal40/canal40.m3u8
