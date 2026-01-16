@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:19,SKY LIGA ALEMANA / TUDN
+http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
+#EXTINF:0,DAZN
+http://matrivagoweb.xyz:8080/mauri000/03031993/67369
+#EXTINF:11,Fox Sports HD
+http://201.217.246.48:9000/play/a085/index.m3u8
+#EXTINF:59,Spain 
+http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
+#EXTINF:11,SKY SPORTS GT
+http://45.171.64.30:2000/play/a08m/index.m3u8
+#EXTINF:11,La Liga Española
+http://181.78.98.214:8000/play/a017/index.m3u8
+#EXTINF:11,TIGO SPORT
+http://45.171.64.30:2000/play/a08e/index.m3u8
+#EXTINF:11,Claro Sports GT
+http://45.171.64.30:2000/play/a053/index.m3u8
+#EXTINF:11,TyC Sports HD
+http://201.217.246.48:9000/play/a06x/index.m3u8
+#EXTINF:11,DSPORT
+http://201.217.246.48:9000/play/a0dm/index.m3u8
+#EXTINF:60,DSPORTS 2
+http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9562.m3u8
+#EXTINF:60,DSPORTS +
+http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9557.m3u8
+#EXTINF:0,ESPN CO
+http://181.205.130.194:4000/play/a08n
+#EXTINF:11,ESPN
+http://201.217.246.48:9000/play/a099/index.m3u8
+#EXTINF:11,ESPN 2 HD
+http://201.217.246.48:9000/play/a098/index.m3u8
+#EXTINF:11,ESPN 3 HD
+http://201.217.246.48:9000/play/a09a/index.m3u8
+#EXTINF:11,ESPN 4HD
+http://201.217.246.48:9000/play/a084/index.m3u8
+#EXTINF:0,ESPN 6 HD
+http://181.205.130.194:4000/play/a0eh
+#EXTINF:59,ESPN 7 Sur (ESPN 10)
+http://38.7.101.90:8000/play/a1zj/index.m3u8
+#EXTINF:11,ESPN Premium HD
+http://201.217.246.48:9000/play/a086/index.m3u8
+#EXTINF:11,TUDN
+http://45.171.64.30:2000/play/a08j/index.m3u8
+#EXTINF:11,TV-101
+http://45.171.64.30:2000/play/a08t/index.m3u8
+#EXTINF:11,Cinecanal HD
+http://201.217.246.48:9000/play/a089/index.m3u8
+#EXTINF:11,Cinemax
+http://201.217.246.48:9000/play/a08r/index.m3u8
+#EXTINF:11,FX HD
+http://201.217.246.48:9000/play/a070/index.m3u8
+#EXTINF:11,HBO
+http://201.217.246.48:9000/play/a07m/index.m3u8
+#EXTINF:11,HBO Family HD
+http://201.217.246.48:9000/play/a07p/index.m3u8
+#EXTINF:11,HBO SIGNATURE
+http://201.217.246.48:9000/play/a06h/index.m3u8
+#EXTINF:11,HBO Plus
+http://201.217.246.48:9000/play/a07n/index.m3u8
+#EXTINF:11,HBO XTREME HD
+http://201.217.246.48:9000/play/a06g/index.m3u8
+#EXTINF:11,Nick Jr
+http://201.217.246.48:9000/play/a07s/index.m3u8
+#EXTINF:11,STAR CHANNEL HD
+http://201.217.246.48:9000/play/a087/index.m3u8
+#EXTINF:11,Sony
+http://201.217.246.48:9000/play/a09c/index.m3u8
+#EXTINF:11,Space HD
+http://201.217.246.48:9000/play/a071/index.m3u8
+#EXTINF:11,TCM
+http://201.217.246.48:9000/play/a065/index.m3u8
+#EXTINF:11,Warner Channel HD
+http://201.217.246.48:9000/play/a09d/index.m3u8
