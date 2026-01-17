@@ -53,26 +53,6 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 
 
 
-#EXTINF:11,TV-101
-http://45.171.64.30:2000/play/a08t/index.m3u8
-#EXTINF:11,Cinecanal HD
-http://201.217.246.48:9000/play/a089/index.m3u8
-#EXTINF:11,Cinemax
-http://201.217.246.48:9000/play/a08r/index.m3u8
-#EXTINF:11,FX HD
-http://201.217.246.48:9000/play/a070/index.m3u8
-#EXTINF:11,HBO
-http://201.217.246.48:9000/play/a07m/index.m3u8
-#EXTINF:11,HBO Family HD
-http://201.217.246.48:9000/play/a07p/index.m3u8
-#EXTINF:11,HBO SIGNATURE
-http://201.217.246.48:9000/play/a06h/index.m3u8
-#EXTINF:11,HBO Plus
-http://201.217.246.48:9000/play/a07n/index.m3u8
-#EXTINF:11,HBO XTREME HD
-http://201.217.246.48:9000/play/a06g/index.m3u8
-#EXTINF:11,Nick Jr
-http://201.217.246.48:9000/play/a07s/index.m3u8
 
 
 
@@ -121,6 +101,27 @@ https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Peliculas&Series",MTV
 http://181.78.4.250:8098/play/a074/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas&Series",TV-101
+http://45.171.64.30:2000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",Cinecanal HD
+http://201.217.246.48:9000/play/a089/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",Cinemax
+http://201.217.246.48:9000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",FX HD
+http://201.217.246.48:9000/play/a070/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",HBO
+http://201.217.246.48:9000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",HBO Family HD
+http://201.217.246.48:9000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",HBO SIGNATURE
+http://201.217.246.48:9000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",HBO Plus
+http://201.217.246.48:9000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",HBO XTREME HD
+http://201.217.246.48:9000/play/a06g/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="Cartoon",Cartoon Network 
