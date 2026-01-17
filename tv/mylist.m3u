@@ -1,46 +1,58 @@
 #EXTM3U
-#EXTINF:19,SKY LIGA ALEMANA / TUDN
+#EXTINF:-1 group-title="Deporte",SKY LIGA ALEMANA / TUDN
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
-#EXTINF:0,DAZN
+#EXTINF:-1 group-title="Deporte",DAZN
 http://matrivagoweb.xyz:8080/mauri000/03031993/67369
-#EXTINF:11,Fox Sports HD
+#EXTINF:-1 group-title="Deporte",Fox Sports HD
 http://201.217.246.48:9000/play/a085/index.m3u8
-#EXTINF:59,Spain 
+#EXTINF:-1 group-title="Deporte",Spain 
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9599.m3u8
-#EXTINF:11,SKY SPORTS GT
+#EXTINF:-1 group-title="Deporte",SKY SPORTS GT
 http://45.171.64.30:2000/play/a08m/index.m3u8
-#EXTINF:11,La Liga Espa�ola
+#EXTINF:-1 group-title="Deporte",La Liga Espaoola
 http://181.78.98.214:8000/play/a017/index.m3u8
-#EXTINF:11,TIGO SPORT
+#EXTINF:-1 group-title="Deporte",TIGO SPORT
 http://45.171.64.30:2000/play/a08e/index.m3u8
-#EXTINF:11,Claro Sports GT
+#EXTINF:-1 group-title="Deporte",Claro Sports GT
 http://45.171.64.30:2000/play/a053/index.m3u8
-#EXTINF:11,TyC Sports HD
+#EXTINF:-1 group-title="Deporte",TyC Sports HD
 http://201.217.246.48:9000/play/a06x/index.m3u8
-#EXTINF:11,DSPORT
+#EXTINF:-1 group-title="Deporte",DSPORT
 http://201.217.246.48:9000/play/a0dm/index.m3u8
-#EXTINF:60,DSPORTS 2
+#EXTINF:-1 group-title="Deporte",DSPORTS 2
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9562.m3u8
-#EXTINF:60,DSPORTS +
+#EXTINF:-1 group-title="Deporte",DSPORTS +
 http://tv.proyectox.vip:8080/live/ECUIO00001/IO00001TEMP/9557.m3u8
-#EXTINF:0,ESPN CO
+#EXTINF:-1 group-title="Deporte",ESPN CO
 http://181.205.130.194:4000/play/a08n
-#EXTINF:11,ESPN
+#EXTINF:-1 group-title="Deporte",ESPN
 http://201.217.246.48:9000/play/a099/index.m3u8
-#EXTINF:11,ESPN 2 HD
+#EXTINF:-1 group-title="Deporte",ESPN 2 HD
 http://201.217.246.48:9000/play/a098/index.m3u8
-#EXTINF:11,ESPN 3 HD
+#EXTINF:-1 group-title="Deporte",ESPN 3 HD
 http://201.217.246.48:9000/play/a09a/index.m3u8
-#EXTINF:11,ESPN 4HD
+#EXTINF:-1 group-title="Deporte",ESPN 4HD
 http://201.217.246.48:9000/play/a084/index.m3u8
-#EXTINF:0,ESPN 6 HD
+#EXTINF:-1 group-title="Deporte",ESPN 6 HD
 http://181.205.130.194:4000/play/a0eh
-#EXTINF:59,ESPN 7 Sur (ESPN 10)
+#EXTINF:-1 group-title="Deporte",ESPN 7 Sur (ESPN 10)
 http://38.7.101.90:8000/play/a1zj/index.m3u8
-#EXTINF:11,ESPN Premium HD
+#EXTINF:-1 group-title="Deporte",ESPN Premium HD
 http://201.217.246.48:9000/play/a086/index.m3u8
-#EXTINF:11,TUDN
+#EXTINF:-1 group-title="Deporte",TUDN
 http://45.171.64.30:2000/play/a08j/index.m3u8
+
+#EXTINF:-1 group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN
+http://201.230.121.186:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp",ESPN 2
+http://38.250.127.17:9800/play/a08q/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp",ESPN 3
+http://201.230.121.186:8000/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png",ESPN 7
+http://201.230.121.186:8000/play/a0dz/index.m3u8
+
+
+
 #EXTINF:11,TV-101
 http://45.171.64.30:2000/play/a08t/index.m3u8
 #EXTINF:11,Cinecanal HD
@@ -61,35 +73,65 @@ http://201.217.246.48:9000/play/a07n/index.m3u8
 http://201.217.246.48:9000/play/a06g/index.m3u8
 #EXTINF:11,Nick Jr
 http://201.217.246.48:9000/play/a07s/index.m3u8
-#EXTINF:11,STAR CHANNEL HD
-http://201.217.246.48:9000/play/a087/index.m3u8
-#EXTINF:11,Sony
-http://201.217.246.48:9000/play/a09c/index.m3u8
-#EXTINF:11,Space HD
-http://201.217.246.48:9000/play/a071/index.m3u8
-#EXTINF:11,TCM
-http://201.217.246.48:9000/play/a065/index.m3u8
-#EXTINF:11,Warner Channel HD
-http://201.217.246.48:9000/play/a09d/index.m3u8
 
-#EXTM3U
-#EXTINF:24 group-title="El Salvador",Canal 3 Impresionante (480p)
-https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:29 group-title="El Salvador",Canal 10 (720p)
+
+
+
+#EXTINF:-1 group-title="Noticias",Canal 10 (720p)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:2400 group-title="El Salvador",Canal 11 TuTV (349p)
+#EXTINF:-1 group-title="Noticias",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:100 group-title="El Salvador",Canal 12 (220p)
+#EXTINF:-1 group-title="Noticias",Canal 12 (220p)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:32 group-title="El Salvador",El Camino TV (480p)
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:0 group-title="El Salvador",Legislative Assembly of El Salvador (1080p) [Not 24/7]
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:360 group-title="El Salvador",Megavisi�n Canal 19 (720p)
+
+#EXTINF:-1 group-title="Noticias",Megavision Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:359 group-title="El Salvador",Megavisi�n Canal 21 (720p)
+#EXTINF:-1 group-title="Noticias",Megavision Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:2399 group-title="El Salvador",RTV Canal 57 (720p)
+#EXTINF:-1 group-title="Noticias",RTV Canal 57 (720p)
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:2400 group-title="El Salvador",RTV Cat�lica Canal 40 (1080p)
-https://stream.giostreaming.app/canal40/canal40.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png" group-title="Peliculas&Series",TNT
+http://181.78.4.250:8098/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-series-br.png" group-title="Peliculas&Series",TNT Series
+http://181.78.4.250:8098/play/a06l/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Peliculas&Series",TNT Novelas
+http://181.78.4.250:8098/play/a08m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Peliculas&Series",HBO
+http://181.78.4.250:8098/play/a08w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigaton-discovery-us.png" group-title="Peliculas&Series",Discovery ID
+http://181.78.4.250:8098/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-us.png" group-title="Peliculas&Series",Discovery Channel 
+http://181.78.4.250:8098/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Peliculas&Series",Animal Planet
+http://181.78.4.250:8098/play/a08v/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",STAR CHANNEL HD
+http://201.217.246.48:9000/play/a087/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",Sony
+http://201.217.246.48:9000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",Space HD
+http://201.217.246.48:9000/play/a071/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",TCM
+http://201.217.246.48:9000/play/a065/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",MTV
+http://201.217.246.48:9000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="Peliculas&Series",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Peliculas&Series",MTV
+http://181.78.4.250:8098/play/a074/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="Cartoon",Cartoon Network 
+http://181.78.4.250:8098/play/a08u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="Cartoon",Cartoonito 
+http://181.78.4.250:8098/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-kids-br.png" group-title="Cartoon",Discovery Kids 
+http://181.78.4.250:8098/play/a08h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Cartoon",Nickelodeon 
+http://181.78.4.250:8098/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Cartoon",Nick Jr.
+http://181.78.4.250:8098/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoon",Disney Jr.
+http://181.78.201.70:8000/play/a0hn/index.m3u8
